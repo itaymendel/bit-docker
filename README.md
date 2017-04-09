@@ -1,26 +1,7 @@
-Bit: Write code once, use it anywhere. [![Release](https://circleci.com/gh/teambit/bit/tree/master.svg?style=shield&circle-token=d9fc5b19b90fb7e0655d941a5d7f21b61174c4e7)](https://bitsrc.io)
-============================
+# Docker image for running remote Bit scope
 
-Bit is a distributed code component manager.
-
-**Increase reusability:** Designed for fast and easy extraction and reuse of code
-components without creating duplications or publishing packages..
-
-**Simply and predictable:** Bit uses features such as simple inline editing,
-strict minor versioning and test based updating to make modifying and maintaining
-is super simple.
-
-**Discoverable:** Bit uses a functionality-based search and a simple yet smart
-scoping mechanism to easily find and reuse components created by you or by others.
-
-
-
-Getting started
-===============
-
-Create a virtual set of reusable code components to be used as building blocks across your repositories and applications. To get started, [check out the installation.instructions in the
-documentation](https://teambit.github.io/bit/installation.html).
-
+To ease the process of using Bit, you can use this docker image to run a remote scope for developing
+and testing changes in Bit.
 
 Run remote scope with latest bit version:
 =================================
